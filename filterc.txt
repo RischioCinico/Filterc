@@ -3,3 +3,5 @@
 ! Expires: 7 days
 ! Description: Filters optimized for uBlock Origin
 ! Homepage: https://github.com/RischioCinico/Filterc/
+
+@@||rischiocinico.altervista.org^
