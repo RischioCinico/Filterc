@@ -85,3 +85,6 @@ youtube.com###donation-shelf
 
 ! Video Overlay - endscreen
 ||www.youtube.com/s/player/*/player_ias.vflset/*/endscreen.js^$script
+
+! Hide next video, which may accidentally be clicked since it's near the Play button
+www.youtube.com##.ytp-button.ytp-next-button
