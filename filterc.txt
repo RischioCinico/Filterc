@@ -1,5 +1,4 @@
 ! Title: RC's filters
-! Last modified: %timestamp%
 ! Expires: 1 days
 ! Description: Filters optimized for uBlock Origin
 ! Homepage: https://github.com/RischioCinico/Filterc/
