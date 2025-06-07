@@ -5,3 +5,10 @@
 ! Homepage: https://github.com/RischioCinico/Filterc/
 
 @@||rischiocinico.altervista.org^
+
+
+
+!!! YOUTUBE
+
+! Don't enter / exit fullscreen on double-click 
+www.youtube.com##+js(aeld, dblclick)
