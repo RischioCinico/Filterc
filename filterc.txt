@@ -6,8 +6,6 @@
 
 @@||rischiocinico.altervista.org^
 
-
-
 !!! YOUTUBE
 
 ! Hide the text label of the dislike/share/download/report/save buttons
