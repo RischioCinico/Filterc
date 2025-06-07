@@ -10,5 +10,12 @@
 
 !!! YOUTUBE
 
+! Hide the text label of the dislike/share/download/report/save buttons
+www.youtube.com###actions.ytd-watch-metadata button > div[class$="text-content"]:not(:has-text(/[\d]/))
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
+www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next__icon:style(margin-right: -6px !important; margin-left: -6px !important;)
+m.youtube.com##ytm-slim-video-action-bar-renderer button [class*="button-text-content"]:not(:has-text(/\d/))
+m.youtube.com##ytm-slim-video-action-bar-renderer ytm-button-renderer div[class$="icon"]:style(margin-right: -6px !important; margin-left: -6px !important;)
+
 ! Don't enter / exit fullscreen on double-click 
 www.youtube.com##+js(aeld, dblclick)
