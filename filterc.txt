@@ -17,6 +17,8 @@ www.vinted.it##.slot-container--leaderboard.slot-container
 
 ! Nasconde tasto "Metti un Boost" sotto ai propri annunci nella pagina profilo
 www.vinted.it##.web_ui__Button__truncated.web_ui__Button__primary.web_ui__Button__small.web_ui__Button__outlined.web_ui__Button__button:has-text(boost)
+! Nasconde tasto "Metti un Boost" sotto ai propri annunci nella pagina del singolo annuncio
+www.vinted.it##.web_ui__Button__truncated.web_ui__Button__primary.web_ui__Button__medium.web_ui__Button__filled.web_ui__Button__button:has-text(boost)
 
 ! Nasconde banner fastidiosi sopra la lista degli articoli caricati nella pagina profilo
 www.vinted.it##.u-flexbox > div.u-fill-child-component.u-fill-width > .web_ui__Card__overflowAuto.web_ui__Card__card
