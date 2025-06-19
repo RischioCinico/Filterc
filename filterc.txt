@@ -34,6 +34,7 @@ x.com##.r-rs99b7.r-1q9bdsx.r-1kqtdi0.r-kemksi.css-175oi2r
 x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(10):has-text(Premium)
 
 
+
 !!! YOUTUBE
 
 ! Hide the text label of the dislike/share/download/report/save buttons
