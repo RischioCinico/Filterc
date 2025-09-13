@@ -26,6 +26,8 @@ www.vinted.it##div.web_ui__Card__overflowAuto.web_ui__Card__card:nth-of-type(12)
 www.vinted.it##.u-flexbox > div.u-fill-child-component.u-fill-width > .web_ui__Card__overflowAuto.web_ui__Card__card
 www.vinted.it##.profile__items-wrapper > div > .u-fill-child-component.u-fill-width
 
+! Nasconde banner inutile per ricordarci che esistono le truffe
+www.vinted.it##.phishing-reminder-banner
 
 
 !!! X (Twitter)
