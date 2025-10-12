@@ -64,12 +64,7 @@ www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd
 youtube.com##.ytp-button.branding-img-container
 
 ! Hide "1080p Premium" in the video quality menu
-!#if env_firefox
 youtube.com##.ytp-quality-menu .ytp-premium-label:upward(.ytp-menuitem)
-!#endif
-!#if env_chromium
-youtube.com##.ytp-quality-menu .ytp-menuitem:has(.ytp-premium-label)
-!#endif
 
 ! Hide Verified checkmark
 www.youtube.com##.ytd-badge-supported-renderer.style-scope.badge-style-type-verified.badge
