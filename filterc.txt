@@ -9,6 +9,11 @@
 
 
 
+!!! EBAY
+! Nasconde quel fastidioso banner con il tasto "Sponsorizza" sopra ogni annuncio
+www.ebay.it##.primary.me-item-card-top-bar
+
+
 !!! VINTED
 
 ! Nasconde quell'orribile immagine segnaposto per le pubblicità
