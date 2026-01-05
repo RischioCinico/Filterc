@@ -14,6 +14,12 @@
 www.ebay.it##.primary.me-item-card-top-bar
 
 
+!!! SUBITO
+! Fastidioso popup che chiede di acquistare sponsorizzazioni
+areariservata.subito.it##.index-module_small__WF-m7.index-module_content__YNElG
+areariservata.subito.it##.index-module_overlay__NyYu1
+
+
 !!! VINTED
 
 ! Nasconde quell'orribile immagine segnaposto per le pubblicità
