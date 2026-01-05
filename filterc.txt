@@ -12,7 +12,8 @@
 !!! EBAY
 ! Nasconde quel fastidioso banner con il tasto "Sponsorizza" sopra ogni annuncio
 www.ebay.it##.primary.me-item-card-top-bar
-
+! Tasto Sponsorizza di fianco ogni annuncio nell'elenco
+www.ebay.it##.btn--primary.btn--small.btn.pl-item__button
 
 !!! SUBITO
 ! Fastidioso popup che chiede di acquistare sponsorizzazioni
