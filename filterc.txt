@@ -84,9 +84,6 @@ www.youtube.com##.ytd-comment-renderer #author-comment-badge
 ! Hide badges (such as "New") under video recommendations on the sidebar
 www.youtube.com##ytd-video-meta-block + ytd-badge-supported-renderer
 
-! Hide "smartimation" animations
-www.youtube.com##yt-smartimation > *:not(.smartimation__content)
-
 ! Prevent stats from live-updating
 ||youtube.com/youtubei/v1/updated_metadata
 
