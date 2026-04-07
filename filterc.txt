@@ -13,10 +13,13 @@
 ! Tasto Sponsorizza di fianco ogni annuncio nell'elenco
 www.ebay.it##.btn--primary.btn--small.btn.pl-item__button
 
+
+
 !!! SUBITO
 ! Fastidioso popup che chiede di acquistare sponsorizzazioni
 areariservata.subito.it##.index-module_small__WF-m7.index-module_content__YNElG
 areariservata.subito.it##.index-module_overlay__NyYu1
+
 
 
 !!! VINTED
@@ -40,6 +43,7 @@ www.vinted.it##.profile__items-wrapper > div > .u-fill-child-component.u-fill-wi
 www.vinted.it##.phishing-reminder-banner
 
 
+
 !!! X (Twitter)
 ! Nasconde pubblicità del premium
 x.com##.r-rs99b7.r-1q9bdsx.r-1kqtdi0.r-kemksi.css-175oi2r
@@ -49,14 +53,7 @@ x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6
 
 !!! YOUTUBE
 
-! Hide the text label of the dislike/share/download/report/save buttons
-www.youtube.com###actions.ytd-watch-metadata button > div[class$="text-content"]:not(:has-text(/[\d]/))
-www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next .yt-spec-button-shape-next--button-text-content
-www.youtube.com###actions.ytd-watch-metadata ytd-button-renderer .yt-spec-button-shape-next__icon:style(margin-right: -6px !important; margin-left: -6px !important;)
-m.youtube.com##ytm-slim-video-action-bar-renderer button [class*="button-text-content"]:not(:has-text(/\d/))
-m.youtube.com##ytm-slim-video-action-bar-renderer ytm-button-renderer div[class$="icon"]:style(margin-right: -6px !important; margin-left: -6px !important;)
-
-! Don't enter / exit fullscreen on double-click 
+! Non passare a schermo intero con doppio click 
 www.youtube.com##+js(aeld, dblclick)
 
 ! Hide View Products
@@ -83,9 +80,6 @@ www.youtube.com##.ytd-comment-renderer #author-comment-badge
 
 ! Hide badges (such as "New") under video recommendations on the sidebar
 www.youtube.com##ytd-video-meta-block + ytd-badge-supported-renderer
-
-! Prevent stats from live-updating
-||youtube.com/youtubei/v1/updated_metadata
 
 ! Hide the hashtags above the video title 
 www.youtube.com###description #info a[href^="/hashtag/"]
