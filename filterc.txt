@@ -6,7 +6,8 @@
 ! Syntax: AdBlock
 
 @@||rischiocinico.altervista.org^
-
+**3p-frame block
+**3p-script block
 
 
 !!! EBAY
