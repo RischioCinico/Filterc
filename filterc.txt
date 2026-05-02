@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: RC's filters
-! Expires: 1 days
+! Expires: 1 hour
 ! Description: Filters optimized for uBlock Origin
 ! Homepage: https://github.com/RischioCinico/Filterc/
 ! Syntax: AdBlock
