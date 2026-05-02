@@ -6,7 +6,6 @@
 ! Syntax: AdBlock
 
 @@||rischiocinico.altervista.org^
-||*^$script,third-party
 
 !!! EBAY
 ! Tasto Sponsorizza di fianco ogni annuncio nell'elenco
