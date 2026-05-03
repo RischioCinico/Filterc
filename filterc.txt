@@ -1,11 +1,14 @@
 ! Title: RC's filters
 ! Description: Filters optimized for uBlock Origin
 ! Homepage: https://github.com/RischioCinico/Filterc/
-! Syntax: AdBlock
+
+
 
 !!! ECCEZIONI
 @@||rischiocinico.altervista.org^
 @@||widget.gleamjs.io^$domain=gleam.io
+
+
 
 !!! EBAY
 ! Tasto Sponsorizza di fianco ogni annuncio nell'elenco
