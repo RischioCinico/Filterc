@@ -3,13 +3,16 @@
 ! Homepage: https://github.com/RischioCinico/Filterc/
 
 @@||rischiocinico.altervista.org^
-@@||widget.gleamjs.io^$domain=gleam.io
-
 
 
 !!! EBAY
 ! Tasto Sponsorizza di fianco ogni annuncio nell'elenco
 www.ebay.it##.btn--primary.btn--small.btn.pl-item__button
+
+
+
+!!! GLEAM
+@@||widget.gleamjs.io^$domain=gleam.io
 
 
 
