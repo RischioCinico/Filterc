@@ -40,6 +40,8 @@ areariservata.subito.it##.index-module_overlay__NyYu1
 ! Nasconde quell'orribile immagine segnaposto per le pubblicità
 ||static-assets.vinted.com/images/ads/placeholders/leaderboard/desktop-1.png$image
 www.vinted.it##.slot-container--leaderboard.slot-container
+www.vinted.it##._ads-module-scss-module__WaSmgW__containerLeaderboard._ads-module-scss-module__WaSmgW__slotContainer
+
 
 ! Nasconde tasto "Metti un Boost" sotto ai propri annunci nella pagina profilo
 www.vinted.it##.web_ui__Button__truncated.web_ui__Button__primary.web_ui__Button__small.web_ui__Button__outlined.web_ui__Button__button:has-text(boost)
@@ -54,6 +56,7 @@ www.vinted.it##.profile__items-wrapper > div > .u-fill-child-component.u-fill-wi
 
 ! Nasconde banner inutile per ricordarci che esistono le truffe
 www.vinted.it##.phishing-reminder-banner
+www.vinted.it##.PhishingReminderBanner-module-scss-module__aE8QXa__phishing-reminder-banner
 
 
 
