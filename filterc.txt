@@ -6,8 +6,6 @@
 
 
 !!! EBAY
-! Tasto Sponsorizza di fianco ogni annuncio nell'elenco
-www.ebay.it##.btn--primary.btn--small.btn.pl-item__button
 
 
 
@@ -29,34 +27,10 @@ www.la7.it##+js(set-cookie, euconsent-v2, reject)
 
 
 !!! SUBITO
-! Fastidioso popup che chiede di acquistare sponsorizzazioni
-areariservata.subito.it##.index-module_small__WF-m7.index-module_content__YNElG
-areariservata.subito.it##.index-module_overlay__NyYu1
 
 
 
 !!! VINTED
-
-! Nasconde quell'orribile immagine segnaposto per le pubblicità
-||static-assets.vinted.com/images/ads/placeholders/leaderboard/desktop-1.png$image
-www.vinted.it##.slot-container--leaderboard.slot-container
-www.vinted.it##._ads-module-scss-module__WaSmgW__containerLeaderboard._ads-module-scss-module__WaSmgW__slotContainer
-
-
-! Nasconde tasto "Metti un Boost" sotto ai propri annunci nella pagina profilo
-www.vinted.it##.web_ui__Button__truncated.web_ui__Button__primary.web_ui__Button__small.web_ui__Button__outlined.web_ui__Button__button:has-text(boost)
-! Nasconde tasto "Metti un Boost" sotto ai propri annunci nella pagina del singolo annuncio
-www.vinted.it##.web_ui__Button__truncated.web_ui__Button__primary.web_ui__Button__medium.web_ui__Button__filled.web_ui__Button__button:has-text(boost)
-! Nasconde tasto "Metti un Boost" sotto ai propri annunci nella pagina di modifica annuncio
-www.vinted.it##div.web_ui__Card__overflowAuto.web_ui__Card__card:nth-of-type(12):has-text(boost)
-
-! Nasconde banner fastidiosi sopra la lista degli articoli caricati nella pagina profilo
-www.vinted.it##.u-flexbox > div.u-fill-child-component.u-fill-width > .web_ui__Card__overflowAuto.web_ui__Card__card
-www.vinted.it##.profile__items-wrapper > div > .u-fill-child-component.u-fill-width
-
-! Nasconde banner inutile per ricordarci che esistono le truffe
-www.vinted.it##.phishing-reminder-banner
-www.vinted.it##.PhishingReminderBanner-module-scss-module__aE8QXa__phishing-reminder-banner
 
 
 
