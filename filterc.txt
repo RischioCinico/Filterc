@@ -32,6 +32,8 @@ www.la7.it##+js(set-cookie, euconsent-v2, reject)
 
 
 !!! VINTED
+! Nasconde boost e vetrina sopra i propri annunci
+www.vinted.it##.web_ui__Card__overflowAuto.web_ui__Card__card
 
 
 
