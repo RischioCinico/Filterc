@@ -29,6 +29,9 @@ www.la7.it##+js(set-cookie, euconsent-v2, reject)
 
 !!! SUBITO
 
+! Nasconde tasto "Aumenta visbilità" accanto ogni annuncio
+areariservata.subito.it##.index-module_sbt-anchor__47tyM.index-module__u7D3wq__cta.index-module_medium__u6Oy7.index-module_solid__K6Jmc.index-module_sbt-button__8Hs-z.button-text
+
 
 
 !!! VINTED
