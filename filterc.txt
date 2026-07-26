@@ -36,9 +36,6 @@ www.la7.it##+js(set-cookie, euconsent-v2, reject)
 ! Nascondi banner per avvisare di stare attenti alle truffe in ogni chat
 www.vinted.it##.PhishingReminderBanner-module-scss-module__aE8QXa__phishing-reminder-banner
 
-! Nasconde boost e vetrina sopra i propri annunci
-www.vinted.it##.web_ui__Card__overflowAuto.web_ui__Card__card
-
 ! Nasconde "Metti un boost" sotto ogni singolo annuncio
 www.vinted.it##.web_ui__Button__truncated.web_ui__Button__primary.web_ui__Button__small.web_ui__Button__outlined.web_ui__Button__button
 
